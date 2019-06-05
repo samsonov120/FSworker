@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  DriveClass.cpp
+  Decorator.cpp
+  exFATclass.cpp
+C:\Users\msamsonov\Desktop\FSworker (1)\FSworker\exFATclass.cpp(8,23): warning C4244:  инициализация: преобразование "double" в "DWORD", возможна потеря данных
+  FAT32class.cpp
+C:\Users\msamsonov\Desktop\FSworker (1)\FSworker\exFATclass.cpp(9,26): warning C4244:  инициализация: преобразование "double" в "DWORD", возможна потеря данных
+  FSclass.cpp
+  FSworker.cpp
+  Iterator.cpp
+C:\Users\msamsonov\Desktop\FSworker (1)\FSworker\FAT32class.cpp(11,43): warning C4244:  =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  NTFSclass.cpp
+C:\Users\msamsonov\Desktop\FSworker (1)\FSworker\Iterator.cpp(26,9): warning C4244:  return: преобразование "ULONGLONG" в "long", возможна потеря данных
+  Создание кода...
+C:\Users\msamsonov\Desktop\FSworker (1)\FSworker\NTFSclass.cpp(11,42): warning C4244:  =: преобразование "ULONGLONG" в "DWORD", возможна потеря данных
+  FSworker.vcxproj -> C:\Users\msamsonov\Desktop\FSworker (1)\x64\Debug\FSworker.exe
